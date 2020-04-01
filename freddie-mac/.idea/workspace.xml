@@ -2,20 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ed6d8d9-3b62-44a7-9ba3-8e32a5c9ac62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../amazonRekognition/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../amazonRekognition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../amazonRekognition/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../face-comparison/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../face-comparison/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/facetoface/controllers/RecognitionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/facetoface/controllers/RecognitionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/facetoface/entities/Confidence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/facetoface/services/FaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/facetoface/services/FaceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revature/facetoface/controllers/RecognitionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/revature/facetoface/controllers/RecognitionController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/revature/facetoface/services/FaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/revature/facetoface/services/FaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/google-java-format.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/Freddie-Mac-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/src/main/java/com/revature/AppDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/src/main/java/com/revature/controllers/ImageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/src/main/java/com/revature/controllers/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/src/main/java/com/revature/services/CompareService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/.idea/google-java-format.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/freddie-mac-test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/src/main/java/com/revature/AppDriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/src/main/java/com/revature/controllers/AwsRekognitionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/src/main/java/com/revature/services/CompareService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/target/classes/com/revature/AppDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/target/classes/com/revature/controllers/AwsRekognitionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac-test/target/classes/com/revature/services/CompareService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui2/bsa-eagle-db-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui2/bsa-eagle-db-ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../staging-project1/spring-boot-bsa-db/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/spring-boot-bsa-db/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
