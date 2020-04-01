@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd28c72c-0697-4b30-864a-67c6dc8ef9dc" name="Default Changelist" comment="" />
+    <list default="true" id="bd28c72c-0697-4b30-864a-67c6dc8ef9dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../amazonRekognition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freddie-mac/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazonRekognition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../amazonRekognition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/controllers/RecognitionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/controllers/RecognitionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/entities/Confidence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/services/FaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/services/FaceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/controllers/RecognitionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/controllers/RecognitionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/entities/Confidence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/services/FaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/services/FaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui2/bsa-eagle-db-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui2/bsa-eagle-db-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staging-project1/spring-boot-bsa-db/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/spring-boot-bsa-db/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZsqXjU8HFBtGe1FLpBQ0qJYIFq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

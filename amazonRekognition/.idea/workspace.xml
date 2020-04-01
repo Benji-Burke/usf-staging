@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df53b5f0-8ec5-4b8e-b3a7-7b90ca5e3b3b" name="Default Changelist" comment="" />
+    <list default="true" id="df53b5f0-8ec5-4b8e-b3a7-7b90ca5e3b3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freddie-mac/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Freddie-Mac-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/controllers/RecognitionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/controllers/RecognitionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/services/FaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/src/main/java/com/revature/facetoface/services/FaceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/controllers/RecognitionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/controllers/RecognitionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/services/FaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../freddie-mac/target/classes/com/revature/facetoface/services/FaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui2/bsa-eagle-db-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/bsa-eagle-app-ui2/bsa-eagle-db-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../staging-project1/spring-boot-bsa-db/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../staging-project1/spring-boot-bsa-db/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZtoXSKT75FP7PnVvCHT2sj6UdQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -97,9 +114,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585693507848" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1585673456754">
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585700446440">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585673456754" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585700446440" />
   </component>
 </project>
