@@ -27,6 +27,11 @@ public class EagleService {
         return eagleRepository.findById(id);
     }
 
+    @Transactional(readOnly=true)
+    public Eagle findEagleById(int id) throws RuntimeException {
+        return eagleRepository.findById(id);
+    }
+
     @Transactional
     public Eagle update(Eagle updatedEag){
         return eagleRepository.save(updatedEag);

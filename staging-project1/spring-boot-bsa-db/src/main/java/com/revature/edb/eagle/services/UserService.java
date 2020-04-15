@@ -1,21 +1,12 @@
 package com.revature.edb.eagle.services;
 
-import com.revature.edb.eagle.dtos.Credentials;
 import com.revature.edb.eagle.entities.AppUser;
-import com.revature.edb.eagle.entities.Eagle;
 import com.revature.edb.eagle.entities.Role;
-import com.revature.edb.eagle.exceptions.AuthenticationException;
-import com.revature.edb.eagle.exceptions.BadRequestException;
-import com.revature.edb.eagle.exceptions.ResourceNotFoundException;
-import com.revature.edb.eagle.exceptions.UsernameNotFoundException;
 import com.revature.edb.eagle.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import org.springframework.web.client.ResourceAccessException;
 
-import java.util.HashSet;
-import java.util.List;
 
 @Service("userService")
 public class UserService {

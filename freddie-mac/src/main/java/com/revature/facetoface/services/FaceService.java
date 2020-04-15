@@ -25,6 +25,7 @@ public class FaceService {
 
         String output = "";
         //Comparing photo 1 and photo 2;
+        // 1. First thing is we create the request using compareFaceRequest
         CompareFacesRequest compareFacesRequest = new CompareFacesRequest().withSourceImage(new Image()
                 .withS3Object(new S3Object()
                         .withName(photo1).withBucket(bucket))).withTargetImage(new Image()

@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ce36e7-0ff9-4010-aaf1-2a3426f43218" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../freddie-mac/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Freddie-Mac-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Freddie-Mac-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../freddie-mac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../freddie-mac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../freddie-mac/src/main/java/com/revature/facetoface/services/FaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../freddie-mac/src/main/java/com/revature/facetoface/services/FaceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../freddie-mac/target/classes/com/revature/facetoface/services/FaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../freddie-mac/target/classes/com/revature/facetoface/services/FaceService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bsa-eagle-app-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../bsa-eagle-app-ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bsa-eagle-app-ui2/bsa-eagle-db-ui" beforeDir="false" afterPath="$PROJECT_DIR$/../bsa-eagle-app-ui2/bsa-eagle-db-ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/controller/EagleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/controller/EagleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/entities/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/entities/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/services/EagleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/services/EagleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/edb/eagle/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revature/edb/eagle/controller/EagleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/revature/edb/eagle/controller/EagleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revature/edb/eagle/services/EagleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/revature/edb/eagle/services/EagleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/revature/edb/eagle/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/revature/edb/eagle/services/UserService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,26 +99,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585629361450" />
-    <state width="1537" height="767" key="GridCell.Tab.0.bottom" timestamp="1585695400064">
+    <state width="1537" height="767" key="GridCell.Tab.0.bottom" timestamp="1586644484093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="767" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585695400064" />
-    <state width="1537" height="767" key="GridCell.Tab.0.center" timestamp="1585695400063">
+    <state width="1537" height="767" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586644484093" />
+    <state width="1537" height="767" key="GridCell.Tab.0.center" timestamp="1586644484093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="767" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585695400063" />
-    <state width="1537" height="767" key="GridCell.Tab.0.left" timestamp="1585695400063">
+    <state width="1537" height="767" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586644484093" />
+    <state width="1537" height="767" key="GridCell.Tab.0.left" timestamp="1586644484092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="767" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585695400063" />
-    <state width="1537" height="767" key="GridCell.Tab.0.right" timestamp="1585695400063">
+    <state width="1537" height="767" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586644484092" />
+    <state width="1537" height="767" key="GridCell.Tab.0.right" timestamp="1586644484093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="767" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585695400063" />
+    <state width="1537" height="767" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586644484093" />
     <state x="598" y="70" key="Maven.ArtifactSearchDialog" timestamp="1585436062446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="598" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585436062446" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586900031851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586900031851" />
     <state x="209" y="114" key="new project wizard" timestamp="1585667790174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

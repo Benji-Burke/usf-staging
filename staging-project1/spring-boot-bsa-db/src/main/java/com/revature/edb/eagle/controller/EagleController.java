@@ -62,21 +62,36 @@ public class EagleController {
         return eagleService.addEagle(eagle);
     }
 
+//    @GetMapping (value = "/getAllById", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+//    public List<Eagle> getAllById (@RequestBody List<Integer> ids){
+//        List<Eagle> eagles = new ArrayList<>();
+//        for (int s : ids) {
+//            eagles.add(eagleService.getEagleById(s));
+//        }
+//        return eagles;
+//    }
+
+//    @GetMapping(value = "/getbyid", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+//    public Eagle getById(@RequestBody @Valid EagleCreds eagle) {
+//        int id = eagle.getId();
+//
+//        return eagleService.getEagleById(id);
+//    }
+
     @GetMapping (value = "/getallbyid", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     public List<Eagle> getAllById (@RequestBody List<Integer> ids){
-        List<Eagle> eagles = new ArrayList<>();
+        List<Eagle> employees = new ArrayList<>();
         for (int s : ids) {
-            eagles.add(eagleService.getEagleById(s));
+            employees.add(eagleService.getEagleById(s));
         }
-        return eagles;
+        return employees;
     }
 
-    @PostMapping(value = "/getbyid", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-    public Eagle getById(@RequestBody @Valid EagleCreds eagle) {
-        int id = eagle.getId();
-
-        return eagleService.getEagleById(id);
+    @GetMapping(value="/id/{id}", produces= MediaType.APPLICATION_JSON_VALUE)
+    public Eagle getUserById(@PathVariable int id) {
+        return eagleService.findEagleById(id);
     }
+
     @PostMapping(value = "/getbyfirstname", consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
     public Eagle getBtFirstName(@RequestBody @Valid EagleCreds eagle) {
         String fname = eagle.getFirstName();

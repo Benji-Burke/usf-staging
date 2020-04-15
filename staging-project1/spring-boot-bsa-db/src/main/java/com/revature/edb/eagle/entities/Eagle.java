@@ -1,7 +1,7 @@
 package com.revature.edb.eagle.entities;
 
 import javax.persistence.*;
-import java.util.Objects;
+import java.util.*;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 
